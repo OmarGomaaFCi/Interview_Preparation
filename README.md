@@ -28,7 +28,7 @@ Note: also check Tail Recusrion and how Optimized Space Complexity Staff <br/>
 https://leetcode.com/explore/learn/card/recursion-i/ <br />
 https://www.youtube.com/watch?v=IJDJ0kBx2LM&ab_channel=freeCodeCamp.org
 
-- Recursion || <br />
+- [x] Recursion || <br />
 Focus >> Divide and Conquer , Backtracking, Master Theorem <br/>
 https://leetcode.com/explore/learn/card/recursion-ii/ <br />
 
@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=dfaKCrJ2HAk <br />
 https://www.youtube.com/watch?v=fPz40W9mfCg <br />
 
 
-- Backtraking <br />
+- [x] Backtraking <br />
 Def: Algorithm for finding all (or Some) Computational Problems **Backtrack** As soon as it Determine that canditate cannot lead to Valid Solution <br>
 https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/  <br />
 https://www.youtube.com/watch?v=A80YzvNwqXA&ab_channel=freeCodeCamp.org <br />
