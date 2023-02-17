@@ -2,7 +2,7 @@
 We will Hack your Career At this Repository
 
 ### Problem Solving
-- The LeetCode Beginner's Guide <br />
+- [x] The LeetCode Beginner's Guide <br />
 https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/
 
 - Hash Table <br />
