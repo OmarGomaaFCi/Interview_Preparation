@@ -5,24 +5,24 @@ We will Hack your Career At this Repository
 - [x] The LeetCode Beginner's Guide <br />
 https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/
 
-- Hash Table <br />
+- [x] Hash Table <br />
 [ Hash Map, Hash Set, Design Key, Caching ] <br/>
 https://leetcode.com/explore/learn/card/hash-table/
 
-- Arrays <br />
+- [x] Arrays <br />
 [Arrays, Strings, 2D Matrix, Two Pointers] <br/>
 https://leetcode.com/explore/learn/card/array-and-string/ <br/>
 https://leetcode.com/explore/learn/card/fun-with-arrays/ (Bonus But You Can Ignore) <br/>
 
-- Queue & Stack <br/>
+- [x] Queue & Stack <br/>
 https://leetcode.com/explore/learn/card/queue-stack/
 
-- Linkedlist <br />
+- [x] Linkedlist <br />
 [Singly Linkedlist, Doubly Linkedlist, Traverse, insert, delete, Reverse, Fast & Slow Pointers, Complexity ] <br/>
 Focus >> Fast & Slow Pointers , Basic Operations Insert & Delete  <br/>
 https://leetcode.com/explore/learn/card/linked-list/
 
-- Recursion <br />
+- [x] Recursion <br />
 Focus >> Recurrence Relation & Base Case , Memoization, Tails Recursion <br/>
 Note: also check Tail Recusrion and how Optimized Space Complexity Staff <br/>
 https://leetcode.com/explore/learn/card/recursion-i/ <br />
